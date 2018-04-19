@@ -1,11 +1,8 @@
 TWRP device configuration for Xiaomi Redmi 3S/Prime/3X
 =============================
 
-The Xiaomi Redmi 3S/Prime/3X (codenamed _"land"_) is a mid-end smartphone from Xiaomi.
-
-It was announced and released in June 2016.
-
-## Device specifications
+ Device specifications
+ =============================
 
 Basic   | Spec Sheet
 -------:|:-------------------------
